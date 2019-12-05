@@ -55,13 +55,7 @@
 
           Method: POST
 
-  5. A view to delete a sighting
-
-          Located at: /sightings/
-        
-          Method: DELETE
-
-  6. A view with general statistics about the sightings
+  5. A view with general statistics about the sightings
 
           Located at: /sightings/stats
         
